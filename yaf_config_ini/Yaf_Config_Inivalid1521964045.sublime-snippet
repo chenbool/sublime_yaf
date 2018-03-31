@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Config_Ini::valid]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Ini::valid</tabTrigger>
+	<description>检查迭代器是否有效</description>
+</snippet>
+		

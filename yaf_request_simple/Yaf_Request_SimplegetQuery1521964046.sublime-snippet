@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Request_Simple::getQuery]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Request_Simple::getQuery</tabTrigger>
+	<description>The getQuery purpose</description>
+</snippet>
+		

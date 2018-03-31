@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Plugin_Abstract::preDispatch]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Plugin_Abstract::preDispatch</tabTrigger>
+	<description>The preDispatch purpose</description>
+</snippet>
+		

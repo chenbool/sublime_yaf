@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Request_Simple::getCookie]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Request_Simple::getCookie</tabTrigger>
+	<description>The getCookie purpose</description>
+</snippet>
+		

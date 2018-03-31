@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Response_Abstract::__destruct]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Response_Abstract::__destruct</tabTrigger>
+	<description>The __destruct purpose</description>
+</snippet>
+		

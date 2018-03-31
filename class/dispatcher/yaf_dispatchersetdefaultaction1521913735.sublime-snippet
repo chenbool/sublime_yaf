@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::setDefaultAction]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::setDefaultAction</tabTrigger>
+	<description>Yaf: 设置路由的默认动作</description>
+</snippet>
+		

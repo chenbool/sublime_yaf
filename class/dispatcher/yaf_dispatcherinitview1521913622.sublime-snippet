@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::initView]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::initView</tabTrigger>
+	<description>Yaf: 初始化视图引擎并返回</description>
+</snippet>
+		

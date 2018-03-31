@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::autoRender]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::autoRender</tabTrigger>
+	<description>Yaf: 开启/关闭自动渲染功能</description>
+</snippet>
+		

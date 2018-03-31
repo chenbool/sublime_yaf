@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::getLastErrorNo]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::getLastErrorNo</tabTrigger>
+	<description>Yaf: 获取最后产生的错误的错误代码</description>
+</snippet>
+		

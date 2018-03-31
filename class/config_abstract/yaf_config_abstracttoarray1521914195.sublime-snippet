@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Config_Abstract::toArray]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Abstract::toArray</tabTrigger>
+	<description>Yaf: 转换为数组</description>
+</snippet>
+		

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::__sleep]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::__sleep</tabTrigger>
+	<description>Yaf_Dispatcher 不能被序列化</description>
+</snippet>
+		

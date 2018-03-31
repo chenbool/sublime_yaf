@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::throwException]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::throwException</tabTrigger>
+	<description>Yaf:  开启/关闭异常抛出</description>
+</snippet>
+		

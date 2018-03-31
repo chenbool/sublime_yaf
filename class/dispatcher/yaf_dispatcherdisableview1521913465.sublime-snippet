@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::disableView]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::disableView</tabTrigger>
+	<description>Yaf: 关闭自动渲染</description>
+</snippet>
+		

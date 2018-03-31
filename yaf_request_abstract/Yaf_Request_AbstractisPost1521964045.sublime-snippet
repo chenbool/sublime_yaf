@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Request_Abstract::isPost]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Request_Abstract::isPost</tabTrigger>
+	<description>The isPost purpose</description>
+</snippet>
+		

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Router::getRoute]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Router::getRoute</tabTrigger>
+	<description>The getRoute purpose</description>
+</snippet>
+		

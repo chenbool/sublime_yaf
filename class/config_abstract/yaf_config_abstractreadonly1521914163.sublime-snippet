@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Config_Abstract::readonly]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Abstract::readonly</tabTrigger>
+	<description>Yaf: 寻找只读配置</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::__clone]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::__clone</tabTrigger>
+	<description>Yaf: Yaf_Dispatcher 不能被克隆</description>
+</snippet>
+		

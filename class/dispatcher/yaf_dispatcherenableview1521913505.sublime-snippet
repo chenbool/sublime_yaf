@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::enableView]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::enableView</tabTrigger>
+	<description>Yaf: 开启自动渲染</description>
+</snippet>
+		

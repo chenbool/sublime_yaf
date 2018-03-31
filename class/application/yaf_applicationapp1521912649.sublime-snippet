@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::app]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::app</tabTrigger>
+	<description>Yaf:获取当前的Application实例</description>
+</snippet>
+		

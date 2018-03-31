@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[YAF_ERR_NOTFOUND_CONTROLLER]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>YAF_ERR_NOTFOUND_CONTROLLER</tabTrigger>
+	<description>Yaf:找不到指定的Controller</description>
+</snippet>
+		

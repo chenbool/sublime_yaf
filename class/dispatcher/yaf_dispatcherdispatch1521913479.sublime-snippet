@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::dispatch]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::dispatch</tabTrigger>
+	<description>Yaf: 分发请求</description>
+</snippet>
+		

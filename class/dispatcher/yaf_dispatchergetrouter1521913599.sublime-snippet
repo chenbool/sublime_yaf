@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::getRouter]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::getRouter</tabTrigger>
+	<description>Yaf: 获取路由器</description>
+</snippet>
+		

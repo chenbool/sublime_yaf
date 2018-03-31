@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::setDefaultController]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::setDefaultController</tabTrigger>
+	<description>Yaf: 设置路由的默认控制器</description>
+</snippet>
+		

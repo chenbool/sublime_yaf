@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[YAF_ENVIRON]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>YAF_ENVIRON</tabTrigger>
+	<description>Yaf:环境常量</description>
+</snippet>
+		

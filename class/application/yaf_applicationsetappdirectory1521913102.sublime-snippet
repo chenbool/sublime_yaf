@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::setAppDirectory]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::setAppDirectory</tabTrigger>
+	<description>Yaf: 改变应用目录</description>
+</snippet>
+		

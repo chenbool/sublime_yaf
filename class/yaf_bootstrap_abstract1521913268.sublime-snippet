@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Bootstrap_Abstract]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Bootstrap_Abstract</tabTrigger>
+	<description>Yaf: 定义自己的Bootstrap类</description>
+</snippet>
+		

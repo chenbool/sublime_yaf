@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Config_Ini::key]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Ini::key</tabTrigger>
+	<description>Yaf:  返回当前元素的键</description>
+</snippet>
+		

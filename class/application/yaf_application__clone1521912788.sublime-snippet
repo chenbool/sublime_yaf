@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::__clone]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::__clone</tabTrigger>
+	<description>Yaf:Application不能被克隆</description>
+</snippet>
+		

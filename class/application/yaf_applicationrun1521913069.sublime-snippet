@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::run]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::run</tabTrigger>
+	<description>Yaf: 运行 Yaf_Application</description>
+</snippet>
+		

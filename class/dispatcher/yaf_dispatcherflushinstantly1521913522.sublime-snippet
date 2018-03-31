@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::flushInstantly]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::flushInstantly</tabTrigger>
+	<description>Yaf: 打开关闭自动响应</description>
+</snippet>
+		

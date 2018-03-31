@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Config_Ini::__set]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Ini::__set</tabTrigger>
+	<description>Yaf: The __set purpose</description>
+</snippet>
+		

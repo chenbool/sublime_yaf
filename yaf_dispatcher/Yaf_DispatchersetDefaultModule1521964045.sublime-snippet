@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::setDefaultModule]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::setDefaultModule</tabTrigger>
+	<description>设置路由的默认模块</description>
+</snippet>
+		

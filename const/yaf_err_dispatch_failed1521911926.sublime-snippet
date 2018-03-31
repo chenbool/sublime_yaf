@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[YAF_ERR_DISPATCH_FAILED]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>YAF_ERR_DISPATCH_FAILED</tabTrigger>
+	<description>Yaf:分发失败</description>
+</snippet>
+		

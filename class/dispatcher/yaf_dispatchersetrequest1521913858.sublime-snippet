@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::setRequest]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::setRequest</tabTrigger>
+	<description>Yaf: 设置请求对象</description>
+</snippet>
+		

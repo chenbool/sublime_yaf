@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::bootstrap]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::bootstrap</tabTrigger>
+	<description>Yaf:调用bootstrap</description>
+</snippet>
+		

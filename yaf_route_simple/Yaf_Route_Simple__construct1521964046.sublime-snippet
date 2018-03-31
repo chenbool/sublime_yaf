@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Route_Simple::__construct]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Route_Simple::__construct</tabTrigger>
+	<description>Yaf_Route_Simple constructor</description>
+</snippet>
+		

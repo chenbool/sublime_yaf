@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Router::getCurrentRoute]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Router::getCurrentRoute</tabTrigger>
+	<description>取得当前有效的路由名</description>
+</snippet>
+		

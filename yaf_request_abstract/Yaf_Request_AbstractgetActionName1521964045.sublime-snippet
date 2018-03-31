@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Request_Abstract::getActionName]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Request_Abstract::getActionName</tabTrigger>
+	<description>The getActionName purpose</description>
+</snippet>
+		

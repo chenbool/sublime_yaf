@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Request_Abstract::getException]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Request_Abstract::getException</tabTrigger>
+	<description>The getException purpose</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Config_Ini::current]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Ini::current</tabTrigger>
+	<description>Yaf: 返回当前节点</description>
+</snippet>
+		

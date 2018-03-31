@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Application::bootstrap]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::bootstrap</tabTrigger>
+	<description>µ÷ÓÃbootstrap</description>
+</snippet>
+		

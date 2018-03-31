@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Plugin_Abstract::routerShutdown]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Plugin_Abstract::routerShutdown</tabTrigger>
+	<description>The routerShutdown purpose</description>
+</snippet>
+		

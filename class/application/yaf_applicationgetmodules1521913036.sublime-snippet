@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::getModules]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::getModules</tabTrigger>
+	<description>Yaf: 获取在配置文件中申明的模块</description>
+</snippet>
+		

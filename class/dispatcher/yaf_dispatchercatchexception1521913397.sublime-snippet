@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::catchException]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::catchException</tabTrigger>
+	<description>Yaf: 开启/关闭自动异常捕获功能</description>
+</snippet>
+		

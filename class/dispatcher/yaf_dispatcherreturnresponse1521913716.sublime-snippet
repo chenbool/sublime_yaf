@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::returnResponse]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::returnResponse</tabTrigger>
+	<description>Yaf: 返回Response对象</description>
+</snippet>
+		

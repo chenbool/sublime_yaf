@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Config_Ini::__isset]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Ini::__isset</tabTrigger>
+	<description>Yaf:  检查节点是否存在</description>
+</snippet>
+		

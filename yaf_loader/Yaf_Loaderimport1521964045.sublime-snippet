@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Loader::import]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Loader::import</tabTrigger>
+	<description>The import purpose</description>
+</snippet>
+		

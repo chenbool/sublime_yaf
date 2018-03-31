@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Config_Ini::__get]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Ini::__get</tabTrigger>
+	<description>Yaf: 读取节点配置</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::getAppDirectory]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::getAppDirectory</tabTrigger>
+	<description>Yaf:获取应用的目录</description>
+</snippet>
+		

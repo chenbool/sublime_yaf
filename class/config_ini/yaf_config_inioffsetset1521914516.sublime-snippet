@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Config_Ini::offsetSet]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Ini::offsetSet</tabTrigger>
+	<description>Yaf:  设置一个偏移位置的值</description>
+</snippet>
+		

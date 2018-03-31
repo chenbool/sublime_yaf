@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Registry::get]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Registry::get</tabTrigger>
+	<description>Retrieve an item from registry</description>
+</snippet>
+		

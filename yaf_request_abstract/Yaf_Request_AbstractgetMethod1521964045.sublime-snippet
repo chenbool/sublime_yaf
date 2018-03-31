@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Request_Abstract::getMethod]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Request_Abstract::getMethod</tabTrigger>
+	<description>The getMethod purpose</description>
+</snippet>
+		

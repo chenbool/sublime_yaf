@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[YAF_ERR_NOTFOUND_VIEW]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>YAF_ERR_NOTFOUND_VIEW</tabTrigger>
+	<description>Yaf:找不到指定的视图文件</description>
+</snippet>
+		

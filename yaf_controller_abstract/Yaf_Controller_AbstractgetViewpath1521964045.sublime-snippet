@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Controller_Abstract::getViewpath]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Controller_Abstract::getViewpath</tabTrigger>
+	<description>The getViewpath purpose</description>
+</snippet>
+		

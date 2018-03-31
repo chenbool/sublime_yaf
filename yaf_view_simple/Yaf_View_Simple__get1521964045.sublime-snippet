@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_View_Simple::__get]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_View_Simple::__get</tabTrigger>
+	<description>获取视图引擎的一个模板变量值</description>
+</snippet>
+		

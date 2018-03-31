@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Request_Http::__construct]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Request_Http::__construct</tabTrigger>
+	<description>The __construct purpose</description>
+</snippet>
+		

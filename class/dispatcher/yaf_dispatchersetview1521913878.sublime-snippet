@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::setView]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::setView</tabTrigger>
+	<description>Yaf: 设置视图引擎</description>
+</snippet>
+		

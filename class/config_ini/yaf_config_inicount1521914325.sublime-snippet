@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Config_Ini::count]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Ini::count</tabTrigger>
+	<description>Yaf: 返回配置的节数量</description>
+</snippet>
+		

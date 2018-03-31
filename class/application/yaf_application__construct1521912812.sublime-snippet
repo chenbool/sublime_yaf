@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::__construct]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::__construct</tabTrigger>
+	<description>Yaf:Application的构造函数</description>
+</snippet>
+		

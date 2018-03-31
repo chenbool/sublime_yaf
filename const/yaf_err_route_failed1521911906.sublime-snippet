@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[YAF_ERR_ROUTE_FAILED]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>YAF_ERR_ROUTE_FAILED</tabTrigger>
+	<description>Yaf:路由失败</description>
+</snippet>
+		

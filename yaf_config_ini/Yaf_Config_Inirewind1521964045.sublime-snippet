@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Config_Ini::rewind]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Ini::rewind</tabTrigger>
+	<description>检查当前位置是否有效</description>
+</snippet>
+		

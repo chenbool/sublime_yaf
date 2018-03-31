@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_View_Interface::assign]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_View_Interface::assign</tabTrigger>
+	<description>为视图引擎分配一个模板变量</description>
+</snippet>
+		

@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::__destruct]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::__destruct</tabTrigger>
+	<description>Yaf:Application的析构函数</description>
+</snippet>
+		

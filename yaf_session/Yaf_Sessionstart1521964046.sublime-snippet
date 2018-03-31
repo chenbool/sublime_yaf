@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Session::start]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Session::start</tabTrigger>
+	<description>The start purpose</description>
+</snippet>
+		

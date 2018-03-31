@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Controller_Abstract::initView]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Controller_Abstract::initView</tabTrigger>
+	<description>The initView purpose</description>
+</snippet>
+		

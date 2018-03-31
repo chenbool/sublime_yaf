@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Session::offsetGet]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Session::offsetGet</tabTrigger>
+	<description>The offsetGet purpose</description>
+</snippet>
+		

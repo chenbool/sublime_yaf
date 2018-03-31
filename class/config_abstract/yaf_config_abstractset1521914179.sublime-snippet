@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Config_Abstract::set]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Abstract::set</tabTrigger>
+	<description>Yaf: Setter</description>
+</snippet>
+		

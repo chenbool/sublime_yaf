@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application</tabTrigger>
+	<description>Yaf:Application</description>
+</snippet>
+		

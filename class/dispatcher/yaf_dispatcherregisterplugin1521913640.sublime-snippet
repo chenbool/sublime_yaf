@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::registerPlugin]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::registerPlugin</tabTrigger>
+	<description>Yaf: 注册一个插件</description>
+</snippet>
+		

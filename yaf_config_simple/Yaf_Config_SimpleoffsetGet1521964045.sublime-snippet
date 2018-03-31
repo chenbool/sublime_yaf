@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Config_Simple::offsetGet]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Config_Simple::offsetGet</tabTrigger>
+	<description>获取一个偏移位置的值</description>
+</snippet>
+		

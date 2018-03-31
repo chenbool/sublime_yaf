@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Session::has]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Session::has</tabTrigger>
+	<description>The has purpose</description>
+</snippet>
+		

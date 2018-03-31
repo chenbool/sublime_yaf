@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Yaf_Request_Abstract::isDispatched]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Request_Abstract::isDispatched</tabTrigger>
+	<description>The isDispatched purpose</description>
+</snippet>
+		

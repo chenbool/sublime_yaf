@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Dispatcher::setErrorHandler]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Dispatcher::setErrorHandler</tabTrigger>
+	<description>Yaf: 设置错误处理函数</description>
+</snippet>
+		

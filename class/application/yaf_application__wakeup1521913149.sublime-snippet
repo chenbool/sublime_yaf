@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::__wakeup]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::__wakeup</tabTrigger>
+	<description>Yaf: Yaf_Application 不能被反序列化</description>
+</snippet>
+		

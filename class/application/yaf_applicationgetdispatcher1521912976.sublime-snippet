@@ -1,0 +1,8 @@
+
+<snippet>
+	<content><![CDATA[Yaf_Application::getDispatcher]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Yaf_Application::getDispatcher</tabTrigger>
+	<description>Yaf: 获取 Yaf_Dispatcher 的实例</description>
+</snippet>
+		
