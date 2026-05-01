@@ -78,9 +78,15 @@ $name = $this->getRequest()->getParam('name');
 
 | 项目 | 仓库地址 |
 |------|----------|
-| Yaf 语法提示 | https://github.com/chenbool/sublime_yaf |
-| Swoole 语法提示 | https://github.com/chenbool/sublime_swoole |
-| ThinkPHP5 语法提示 | https://github.com/chenbool/sublime_thinkphp5 |
+| sublime_swoole | https://github.com/chenbool/sublime_swoole |
+| sublime_yaf | https://github.com/chenbool/sublime_yaf |
+| sublime_thinkphp5 | https://github.com/chenbool/sublime_thinkphp5 |
+| sublime_thinkphp6 | https://github.com/chenbool/sublime_thinkphp6 |
+| sublime_thinkphp8 | https://github.com/chenbool/sublime_thinkphp8 |
+| sublime_laravel | https://github.com/chenbool/sublime_laravel |
+| sublime_workerman | https://github.com/chenbool/sublime_workerman |
+| sublime_webman | https://github.com/chenbool/sublime_webman |
+| sublime_fastadmin | https://github.com/chenbool/sublime_fastadmin |
 
 ## 交流群
 
